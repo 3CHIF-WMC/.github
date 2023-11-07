@@ -5,17 +5,13 @@
 
 # Herzlich Willkommen auf der GitHub-Seite der 3CHIF-WMC
 
-Hier werden Beispiele aus dem WMC-Unterricht hochgeladen.
+Hier werden Beispiele aus dem WMC-Unterricht hochgeladen und zur Verfügung gestellt.
 
 ## Kontakt
 
-[@MrBrut](https://github.com/MrBrut-glitch) ist der Verantwortliche für diese Seite und steht gerne für Fragen zur Verfügung.
+[@MrBrut](https://github.com/MrBrut-glitch) ist der Verantwortliche für diese Seite und steht gerne für Fragen oder Problem zur Verfügung.
 Herr Professor [@Kohlweg](https://github.com/cabbageway) ist für das Hochladen der Beispiele verantwortlich.
 
 ## GitHub - Schnellstart
 
 Falls ihr neu bei GitHub seid oder Probleme mit der Bedienung habt, könnt ihr unseren [GitHub-Schnellstart](https://github.com/CHIF21/Quickstart) durchlesen.
-
-## Wiki
-
-Im Wiki werden in Zukunft Anleitungen zu verschiedenen Themen verfügbar sein.
