@@ -1,12 +1,21 @@
-## Hi there 👋
+<div style="width: 100%; display: flex; justify-content: center;">
+    <img src="https://htl-kaindorf.at/vertical.svg" height="50">
+    <img src="https://htl-kaindorf.at/htblakaindorf_logo.svg" width="250">
+</div>
 
-<!--
+# Herzlich Willkommen auf der GitHub-Seite der 3CHIF-WMC
 
-**Here are some ideas to get you started:**
+Hier werden Beispiele aus dem WMC-Unterricht hochgeladen.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Kontakt
+
+[@MrBrut](https://github.com/MrBrut-glitch) ist der Verantwortliche für diese Seite und steht gerne für Fragen zur Verfügung.
+[@Kohlweg](https://github.com/cabbageway) ist für das Hochladen der Beispiele verantwortlich.
+
+## GitHub - Schnellstart
+
+Falls ihr neu bei GitHub seid oder Probleme mit der Bedienung habt, könnt ihr unseren [GitHub-Schnellstart](https://github.com/CHIF21/Quickstart) durchlesen.
+
+## Wiki
+
+Im Wiki werden in Zukunft Anleitungen zu verschiedenen Themen verfügbar sein.
