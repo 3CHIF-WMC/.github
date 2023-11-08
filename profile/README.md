@@ -10,7 +10,7 @@ Hier werden Beispiele aus dem WMC-Unterricht hochgeladen und zur Verfügung gest
 ## Kontakt
 
 [@MrBrut](https://github.com/MrBrut-glitch) ist der Verantwortliche für diese Seite und steht gerne für Fragen oder Problem zur Verfügung.
-Herr Professor [@Kohlweg]([https://github.com/cabbageway](https://www.youtube.com/watch?v=A-SAn9kPgIQ)) ist für das Hochladen der Beispiele verantwortlich.
+Herr Professor [@Kohlweg]([https://github.com/cabbageway]("https://www.youtube.com/watch?v=A-SAn9kPgIQ)") ist für das Hochladen der Beispiele verantwortlich.
 
 ## GitHub - Schnellstart
 
